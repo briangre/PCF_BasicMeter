@@ -8,4 +8,4 @@ The basic requirement to use this control is to have an entity that uses a Whole
 add this control to a form and bind it to the field. By clicking a block on the graphic you are changing the value in CDS 
 for this record.
 
-I can see a lot of room for improvement and customization, but that is for another day
+Click [here](/BasicMeterControl.gif) to see what it looks like. I see a lot of opportunity for improvement and customization, but that is for another day
