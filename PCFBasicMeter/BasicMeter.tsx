@@ -18,7 +18,7 @@ export class BasicMeter extends React.Component<IBasicMeterProps, IBasicMeterSta
         super(props);
 
         this.state = {
-            currentCount: props.count || 0
+            currentCount: Number(props.count)
         }
 
         this.handleClick = this.handleClick.bind(this);
